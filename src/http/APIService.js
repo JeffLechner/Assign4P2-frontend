@@ -1,6 +1,6 @@
 /* eslint-disable */
 import axios from 'axios';
-const API_URL = 'http://assign4.pythonanywhere.com'; /* http://groyce.pythonanywhere.com or  http://assign4.pythonanywhere.com*/
+const API_URL = 'https://assign4.pythonanywhere.com'; /* http://groyce.pythonanywhere.com or  http://assign4.pythonanywhere.com*/
 
 export class APIService {
   constructor() {
